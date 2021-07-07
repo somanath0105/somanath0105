@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @somanath0105 (Somanath M Chikkapatta)
 - 👀 I’m interested in Data Science/Big Data/Artificial Intelligence (Data Analysis & Business Analysis).
 - 🌱 I’m currently learning Python & MySQL/NoSQL..
-- 💞️ I’m looking to collaborate on Code Coverage Saas Project Management..
+- 💞️ I’m looking to collaborate on Code Coverage Saas Project Management (QA/Testing Domain)..
 - 📫 You can reach out to me letter2somanath@gmail.com or somanath.bldea@gmail.com..
 
 <!---
